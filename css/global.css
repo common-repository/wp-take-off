@@ -1,0 +1,8 @@
+#toplevel_page_wp-takeoff-wizard .dashicons-before img {
+    display: none;
+}
+#toplevel_page_wp-takeoff-wizard .dashicons-before:before {
+    content: "\f072";
+    font-family: FontAwesome;
+    margin-top:1px;
+}
